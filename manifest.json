@@ -1,10 +1,10 @@
 {
   "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "5ddc9ba215bb8645745597fe1beafda0c376546dced55848323185611c36849e",
-  "size": 1643808,
+  "sha256": "30f3c19d403655b47f6a5f6ac2bfe1ee946f5404f3e1160fd70d5867da0e119a",
+  "size": 1643792,
   "mandatory": true,
   "min_version": "1.0.0",
-  "notes": "v1.5.3: useHTTP10 + heap diagnostic",
+  "notes": "v1.5.3: LVGL framebuffer in PSRAM (frees internal DRAM for TLS)",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
