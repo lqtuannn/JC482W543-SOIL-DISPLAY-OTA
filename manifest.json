@@ -1,10 +1,10 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "3ab5eedaf83180ca9c3cc42eee7dc50ccfe48619fedb9d9a597765d563fc4db9",
-  "size": 1641760,
+  "sha256": "fdbf54dfda693bf89fefafa2c274bc9c234e5025002aec7e5012c8aa7ffc8ab9",
+  "size": 1642048,
   "mandatory": false,
   "min_version": "1.0.0",
-  "notes": "Add Screen1 OTA confirmation and WiFi retry diagnostics",
+  "notes": "Serialize HTTPS clients so OTA does not conflict with Teanis TLS",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
