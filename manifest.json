@@ -1,10 +1,10 @@
 {
   "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "0a224dcacfa4dece351d102dde66a29048985718a817dafdf3726f3c725829a1",
+  "sha256": "6377154e70fec709ee84aa683ce64883c09d70b7c42f1bd1aa7b073103a2ddd0",
   "size": 1643792,
   "mandatory": true,
   "min_version": "1.0.0",
-  "notes": "v1.5.3: PSRAM framebuffer + 12KB OTA stack",
+  "notes": "v1.5.3: 16KB OTA stack + PSRAM framebuffer",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
