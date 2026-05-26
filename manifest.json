@@ -1,10 +1,10 @@
 {
   "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "9893a863a27575d4c7ba50e4340486cc7d86dd649a5b39b70030f3b110fd5e26",
-  "size": 1643040,
+  "sha256": "5ddc9ba215bb8645745597fe1beafda0c376546dced55848323185611c36849e",
+  "size": 1643808,
   "mandatory": true,
   "min_version": "1.0.0",
-  "notes": "v1.5.3: per-request TLS lock, retry, stall detection, handshake timeout; OTA stack 8KB to preserve WiFi heap",
+  "notes": "v1.5.3: useHTTP10 + heap diagnostic",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
