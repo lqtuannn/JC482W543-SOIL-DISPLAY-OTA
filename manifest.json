@@ -1,10 +1,10 @@
 {
   "version": "1.5.3",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "fdbf54dfda693bf89fefafa2c274bc9c234e5025002aec7e5012c8aa7ffc8ab9",
-  "size": 1642048,
-  "mandatory": false,
+  "sha256": "f0c90270054eee4887b3e16fef5686516062b35ef5039bac6a92c6e95159697e",
+  "size": 1643040,
+  "mandatory": true,
   "min_version": "1.0.0",
-  "notes": "Serialize HTTPS clients so OTA does not conflict with Teanis TLS",
+  "notes": "v1.5.3: per-request TLS lock, retry, stall detection, handshake timeout",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
