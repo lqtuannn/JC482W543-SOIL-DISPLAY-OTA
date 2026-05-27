@@ -1,10 +1,10 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
-  "sha256": "6377154e70fec709ee84aa683ce64883c09d70b7c42f1bd1aa7b073103a2ddd0",
-  "size": 1643792,
+  "sha256": "41e2e390e751bde83a543aa245fece4e7a1bf9deb35627b16f0361cc4642b137",
+  "size": 1643040,
   "mandatory": true,
   "min_version": "1.0.0",
-  "notes": "v1.5.3: 16KB OTA stack + PSRAM framebuffer",
+  "notes": "Fix OTA heap log WDT crash and defer OTA until network idle",
   "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
 }
