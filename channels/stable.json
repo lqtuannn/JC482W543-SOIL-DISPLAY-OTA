@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "project": "JC482W543-SOIL-DISPLAY",
+  "channel": "stable",
+  "version": "1.5.6",
+  "manifest_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.6/manifest.json",
+  "rollout": 100,
+  "mandatory": true
+}

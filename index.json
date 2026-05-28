@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "project": "JC482W543-SOIL-DISPLAY",
+  "default_channel": "stable",
+  "channels": {
+    "stable": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/channels/stable.json"
+  }
+}
