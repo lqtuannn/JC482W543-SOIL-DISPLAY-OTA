@@ -5,11 +5,11 @@
     "JC4827W543-N4R8"
   ],
   "version": "1.5.7",
-  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.7/firmware.bin",
   "sha256": "3293a1391169139c9217bf5505c51bdc1510dda03b093cffd25e841283778022",
   "size": 1647216,
   "mandatory": true,
   "min_version": "1.0.0",
   "notes": "Add OTA progress spinner and percent on Screen1",
-  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
+  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.7/assets.json"
 }
