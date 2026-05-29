@@ -5,11 +5,11 @@
     "JC4827W543-N4R8"
   ],
   "version": "1.5.8",
-  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/firmware.bin",
   "sha256": "932a4db8d7269cd532a0c46e1666d28642057ec3990c0447b625cfb1bd1958a5",
   "size": 1649792,
   "mandatory": false,
   "min_version": "1.0.0",
   "notes": "Test OTA, thay đổi baudrate 9600 -> 4800",
-  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
+  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/assets.json"
 }

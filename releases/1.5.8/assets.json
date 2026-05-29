@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "assets": [
+    {
+      "path": "/img/bg1.z",
+      "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/img/bg1.z",
+      "sha256": "a04ef48ba32dbccf8771b07ab395601a54cdb310ab7a3fa21ff035e918f99dea",
+      "size": 51042
+    },
+    {
+      "path": "/img/bg2.z",
+      "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/img/bg2.z",
+      "sha256": "b824ff470a00dabacde786549a4deade17fd468b10f05df31d7c170539dd637b",
+      "size": 39441
+    },
+    {
+      "path": "/img/bg3.z",
+      "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/img/bg3.z",
+      "sha256": "ea8a635650c3fa2e0550558d30f9b3eb8d6f986ff52e26fe4693283ae4524ac0",
+      "size": 22909
+    },
+    {
+      "path": "/img/logo.z",
+      "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.8/img/logo.z",
+      "sha256": "eee5426547925a6a665939ac2f661a6338f07da880e37253773d2564f093aa58",
+      "size": 29911
+    }
+  ]
+}
