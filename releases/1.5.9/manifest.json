@@ -5,11 +5,11 @@
     "JC4827W543-N4R8"
   ],
   "version": "1.5.9",
-  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.9/firmware.bin",
   "sha256": "5b3ef965e2905c41c984ded80d921d9d1376b5404a7c559fedb7a400a45350cf",
   "size": 1650448,
   "mandatory": false,
   "min_version": "1.0.0",
   "notes": "Fix WiFi reconnect after OTA reboot",
-  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/assets.json"
+  "assets_url": "https://raw.githubusercontent.com/lqtuannn/JC482W543-SOIL-DISPLAY-OTA/main/releases/1.5.9/assets.json"
 }
